@@ -20,14 +20,14 @@ Powered by **MERN Stack** + **Google Gemini API**, it bridges the gap with AI-dr
 ### 🧾 Tired of carrying medical files to every doctor?  
 > ❌ No more folders. No more worries.  
 > ✅ Just tap your **DigiCard**, and the kiosk will instantly send all your reports and medical summaries to your doctor — secure, fast, and paperless.  
-📍 _Left Tag: `digi_card_sharing.png`_
+
 
 ---
 
 ### 🎤 Tap-to-Talk: Your Voice is the New Touch  
 > Struggling with small screens or low literacy?  
 > 🎙️ Just **tap the mic** and speak. Our friendly voice assistant will guide you every step of the way.  
-📍 _Left Tag: `voice_assistance_ui.png`_
+
 
 ---
 
@@ -35,59 +35,57 @@ Powered by **MERN Stack** + **Google Gemini API**, it bridges the gap with AI-dr
 > Hate filling long forms at the hospital?  
 > 📲 Enter your mobile number once and the kiosk will send the required form straight to your phone.  
 > Fill it at your pace — anytime, anywhere.  
-📍 _Left Tag: `form_to_mobile.png`_
+
 
 ---
 
 ### 🔐 Aadhaar-like Login with Simulated OTP  
 > Fast and secure logins using your mobile number + OTP flow  
-📍 _Left Tag: `otp_login_ui.png`_
+
 
 ---
 
 ### 📅 Smart Queue Management & Appointment Booking  
 > Avoid long queues and confusion.  
 > Get live queue updates, auto-assign tokens, and intelligent appointment scheduling.  
-📍 _Left Tag: `appointment_booking_ui.png`_
+
 
 ---
 
 ### 💬 Gemini-Powered Health Chatbot  
 > Get instant answers to health questions, symptom checks, or medicine info.  
 > Your AI-powered virtual health buddy is always available.  
-📍 _Left Tag: `ai_chatbot_ui.png`_
 
 ---
 
 ### 🍽️ Personalized Video Diet Plan  
 > Confused about what to eat for your condition?  
 > Get **video-based, regional-language** diet plans based on your vitals & health history.  
-📍 _Left Tag: `diet_recommendation.png`_
+
 
 ---
 
 ### 📈 Track Vitals and EHRs  
 > Monitor your blood pressure, sugar, and other vitals over time — all from one dashboard.  
-📍 _Left Tag: `vitals_tracking.png`_
 
 ---
 
 ### 💳 QR & UPI Payments  
 > Simple, fast, and secure payment options — just scan & pay.  
-📍 _Left Tag: `upi_payment_ui.png`_
+
 
 ---
 
 ### 📂 AI-Summarized Medical Records  
 > Long prescriptions or reports?  
 > Let our AI summarize them for you and your doctor in one click.  
-📍 _Left Tag: `document_summary_ui.png`_
+
 
 ---
 
 ### 🧑‍💼 Admin Dashboard & Real-Time Analytics  
 > View kiosk usage, performance, patient inflow — all in real-time.  
-📍 _Left Tag: `admin_analytics_ui.png`_
+
 
 ---
 
